@@ -32,16 +32,16 @@
 
 ### 🤝 Let's connect together! 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kyalsinhein/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+  <a href="https://www.linkedin.com/in/kyalsinhein/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn" width="40" height="40" />
   </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kyalsinhein6356@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
-         alt="Email" width="40" height="40" />
-  </a>
+
+  📧 kyalsinhein6356@gmail.com
 </p>
+
 
 
 ---
