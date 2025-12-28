@@ -39,7 +39,7 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  📧 kyalsinhein6356@gmail.com
+  📧 <a href="mailto:kyalsinhein6356@gmail.com">Gmail</a>
 </p>
 
 
