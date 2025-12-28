@@ -39,9 +39,8 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  📧 <a href="mailto:kyalsinhein6356@gmail.com">Gmail</a>
+  <h3>📧 kyalsinhein6356@gmail.com</h3>
 </p>
-
 
 
 ---
