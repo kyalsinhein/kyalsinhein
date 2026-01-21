@@ -37,7 +37,6 @@
   <a href="https://www.linkedin.com/in/kyalsinhein/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn" width="40" height="40" />
-      📧 Email: kyalsinhein6356@gmail.com
   </a>
 
 
