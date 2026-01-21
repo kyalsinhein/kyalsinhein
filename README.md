@@ -1,5 +1,5 @@
 # Welcome to my GitHub! 👋
-<p align="center">Hi!I’m Kyal Sin Hein, passionate about **building digital projects**, programming, and exploring new technologies.  </p>
+<p align="center">Hi, I’m Kyal Sin Hein, passionate about **building digital projects**, programming, and exploring new technologies.  </p>
 <p align="center">Feel free to explore my repositories and connect with me!</p>
 
 ### **💻 My Core Skills**
