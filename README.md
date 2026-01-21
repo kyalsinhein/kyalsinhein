@@ -1,6 +1,5 @@
 # Welcome to my GitHub! 👋
 <p align="center">Hi, I’m Kyal Sin Hein, passionate about building digital projects, programming, and exploring new technologies.  </p>
-<p align="center">Feel free to explore my repositories and connect with me!</p>
 <p align="center"> You can also explore my portfolio website <a href="https://kyalsinhein-portfolio.vercel.app/">here</a>.</p>
 
 ### **💻 My Core Skills**
