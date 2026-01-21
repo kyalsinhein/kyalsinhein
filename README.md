@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
-<p>Hi, I’m Kyal Sin Hein. I’m passionate about IT, programming, and building cool projects.  
-Feel free to explore my repositories and connect with me! </p>
+<center><p>Hi, I’m Kyal Sin Hein. I’m passionate about IT, programming, and building cool projects.</p>
+<p>Feel free to explore my repositories and connect with me!</p></center>
 
 ### **💻 My Core Skills**
 
