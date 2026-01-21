@@ -35,7 +35,7 @@
 
 ## 📬 Contact
 
-📧 **Email:** [kyalsinhein6356@gmail.com](mailto:kyalsinhein6356@gmail.com)  
+📧 **Email:** 𝗸𝘆𝗮𝗹𝘀𝗶𝗻𝗵𝗲𝗶𝗻𝟲𝟯𝟱𝟲@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺
 💼 **LinkedIn:** [linkedin.com/in/kyalsinhein](https://www.linkedin.com/in/kyalsinhein/)  
 
 ---
