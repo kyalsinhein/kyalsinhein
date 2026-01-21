@@ -37,8 +37,6 @@
 
 📧 **Email:** [kyalsinhein6356@gmail.com](mailto:kyalsinhein6356@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/kyalsinhein](https://www.linkedin.com/in/kyalsinhein/)  
-🐱 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-
 
 ---
 
