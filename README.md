@@ -26,7 +26,7 @@
 ### 🌟 A little about Me
 ✅ I'm a passionate developer currently pursuing my Master's in IT. 💻
 
-✅ I'm actively expanding my knowledge in AI, cloud technologies, and advanced programming. 🤖☁️
+✅ I'm actively expanding my knowledge in AI, data engineering, and advanced programming. 🤖☁️
 
 ✅ I have a strong foundation in computing principles and practical experience in project leadership. 🚀📈
 
