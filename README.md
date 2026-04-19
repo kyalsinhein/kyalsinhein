@@ -1,29 +1,67 @@
-fix that "# Welcome to my GitHub! 👋
-<p align="center">Hi, I’m Kyal Sin Hein, passionate about building digital projects, programming, and exploring new technologies.  </p>
-<p align="center"> You can also explore my portfolio website <a href="https://kyalsinhein-portfolio.vercel.app/">here</a>.</p>
-### **💻 My Core Skills**
+<h1 align="center">Hi, I'm Kyal Sin Hein 👋</h1>
+
 <p align="center">
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40" height="40"/>
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40" height="40"/>
-  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-  <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img alt="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  <img alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"/>
+  A passionate developer pursuing a Master's in IT — building meaningful digital experiences.
 </p>
-<br> 
+
+<p align="center">
+  <a href="https://kyalsinhein-portfolio.vercel.app/">🌐 Portfolio</a> •
+  <a href="mailto:kyalsinhein6356@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/kyalsinhein/">💼 LinkedIn</a>
+</p>
+
 ---
-### 🌟 A little about Me
-✅ I'm a passionate developer currently pursuing my Master's in IT. 💻
-✅ I'm actively expanding my knowledge in AI, data engineering, and advanced programming. 🤖☁️
-✅ I have a strong foundation in computing principles and practical experience in project leadership. 🚀📈
-✨ Fun fact : I like to listen to good music. 🎧🎶
+
+## 🙋‍♂️ About Me
+
+- 🎓 Pursuing my **Master's in Information Technology**
+- 💡 Exploring **AI, data engineering, and advanced programming**
+- 🛠️ Strong foundation in computing with hands-on **project leadership** experience
+- 🎧 Fun fact: I recharge with good music
+
 ---
+
+## 🚀 Skills
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Database**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Portfolio](https://kyalsinhein-portfolio.vercel.app/) | Personal portfolio website | HTML, CSS, JS |
+| 🔒 More on GitHub | Check my pinned repositories below | — |
+
+---
+
 ## 📬 Contact
-📧 **Email:**      𝗸𝘆𝗮𝗹𝘀𝗶𝗻𝗵𝗲𝗶𝗻𝟲𝟯𝟱𝟲@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 <br>
-💼 **LinkedIn:**  [linkedin.com/in/kyalsinhein](https://www.linkedin.com/in/kyalsinhein/)  
+
+<p>
+  📧 <strong>Email:</strong> kyalsinhein6356@gmail.com <br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kyalsinhein/">linkedin.com/in/kyalsinhein</a>
+</p>
+
 ---
-" with professional and clear format
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kyalsinhein&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
