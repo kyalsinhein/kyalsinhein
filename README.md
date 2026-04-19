@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kyal Sin Hein 👋</h1>
 
 <p align="center">
-  A passionate developer pursuing a Master's in IT — building meaningful digital experiences.
+Software Engineer focused on building scalable backend systems, developing efficient applications, and integrating AI-driven solutions.
 </p>
 
 <p align="center">
