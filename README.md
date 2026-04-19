@@ -42,16 +42,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 📂 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Portfolio](https://kyalsinhein-portfolio.vercel.app/) | Personal portfolio website | HTML, CSS, JS |
-| 🔒 More on GitHub | Check my pinned repositories below | — |
-
----
 
 ## 📬 Contact
 
