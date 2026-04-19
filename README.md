@@ -5,7 +5,7 @@ I am a Software Engineer focused on building scalable backend systems, developin
 </p>
 
 <p align="center">
-  <a href="https://kyalsinhein-portfolio.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://kyalsinhein-portfolio.vercel.app/">🌐 Portfolio</a> 
 </p>
 
 ---
