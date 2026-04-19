@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kyal Sin Hein 👋</h1>
 
 <p align="center">
-Software Engineer focused on building scalable backend systems, developing efficient applications, and integrating AI-driven solutions.
+I am a Software Engineer focused on building scalable backend systems, developing efficient applications, and integrating AI-driven solutions.
 </p>
 
 <p align="center">
