@@ -6,8 +6,6 @@ I am a Software Engineer focused on building scalable backend systems, developin
 
 <p align="center">
   <a href="https://kyalsinhein-portfolio.vercel.app/">🌐 Portfolio</a> •
-  <a href="mailto:kyalsinhein6356@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/kyalsinhein/">💼 LinkedIn</a>
 </p>
 
 ---
