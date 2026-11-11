@@ -12,7 +12,6 @@ I am a Software Engineer focused on building scalable backend systems, developin
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Pursuing my **Master's in Information Technology**
 - 💡 Exploring **AI, data engineering, and advanced programming**
 - 🛠️ Strong foundation in computing with hands-on **project leadership** experience
 - 🎧 Fun fact: I recharge with good music
