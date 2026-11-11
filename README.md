@@ -14,7 +14,6 @@ Junior Software Engineer with a background in full-stack web development, backen
 
 ## 🙋‍♂️ About Me
 
-- 🎓 MSc Information Technology (Distinction), University of the West of England, Bristol
 - 🛠️ Experience building RESTful APIs and database-driven applications in Python and Flask
 - 👥 Led a four-developer Agile team to deliver a working application
 - 🗺️ Built a geospatial app for 1,000+ Bristol bus stops using GeoJSON
